@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/harpreet/Documents/ros2_ws/install/turtle_hunter_interfaces/local/lib/python3.10/dist-packages",
+        "/home/harpreet/Documents/ros2_ws/build/turtle_hunter",
+        "/home/harpreet/Documents/ros2_ws/install/turtle_hunter/lib/python3.10/site-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_test_pkgs/lib/python3.10/site-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_test_interfaces/local/lib/python3.10/dist-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/harpreet/Documents/ros2_ws/install/turtle_hunter_interfaces/local/lib/python3.10/dist-packages",
+        "/home/harpreet/Documents/ros2_ws/build/turtle_hunter",
+        "/home/harpreet/Documents/ros2_ws/install/turtle_hunter/lib/python3.10/site-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_test_pkgs/lib/python3.10/site-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_test_interfaces/local/lib/python3.10/dist-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/harpreet/Documents/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
