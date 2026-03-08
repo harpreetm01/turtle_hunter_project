@@ -77,11 +77,7 @@ To start the simulation, run:
 ros2 launch turtle_hunter_bringup turtle_hunter.launch.py
 ```
 
-## 📌 Future Improvements
-
-- Improve movement to make it look smoother.
-- Add different behaviors for spawned turtles.
-- Experiment with smarter path planning.
 
 🔧 **Feel free to explore the code and tweak the parameters to change how the turtle hunts!** 🏹🐢
+
 
